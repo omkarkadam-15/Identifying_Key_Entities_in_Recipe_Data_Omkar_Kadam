@@ -1,0 +1,2 @@
+# Identifying_Key_Entities_in_Recipe_Data_Omkar_Kadam
+This project performs detailed EDA and sequence modeling on recipe text data, including data cleaning, tokenization, feature extraction, and CRF-based Named Entity Recognition. It analyzes ingredient, unit, and quantity patterns, builds a high-accuracy model (~99.79%) and delivers insights for structured recipe data extraction and NLP applications.
